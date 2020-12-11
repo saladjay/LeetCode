@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithm\Q34.cs" />
+    <Compile Include="MultiThread\AutoResetEventDemo.cs" />
     <Compile Include="MultiThread\Q1114.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
