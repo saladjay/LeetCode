@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LeetCode.Algorithm;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,8 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
+            Q34 q34 = new Q34();
+            q34.SearchRange(new int[] { 1 }, 1);
         }
     }
 }
