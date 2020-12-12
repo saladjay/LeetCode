@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,8 +12,32 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            Q34 q34 = new Q34();
-            q34.SearchRange(new int[] { 1 }, 1);
+            Test.Execute("Q376",TestType.Algorithm);
         }
+
+        public static class Test
+        {
+            public static void Execute(string Question,TestType testType)
+            {
+                var currentaAssembly = Assembly.GetExecutingAssembly();
+                var module = currentaAssembly.Modules;
+       
+                var executeObj = currentaAssembly.CreateInstance($"LeetCode.{testType}.{Question}", true) as IExecuteTest;
+                Console.WriteLine(executeObj.Test());
+                Console.ReadKey();
+            }
+        }
+    }
+
+    public enum TestType
+    {
+        Algorithm,
+        MultiThread,
+
+    }
+    
+    public interface IExecuteTest
+    {
+        bool Test();
     }
 }
