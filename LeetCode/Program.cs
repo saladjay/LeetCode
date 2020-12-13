@@ -33,7 +33,7 @@ namespace LeetCode
     {
         Algorithm,
         MultiThread,
-
+        WeeklyMatch,
     }
     
     public interface IExecuteTest
