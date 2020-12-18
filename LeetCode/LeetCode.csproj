@@ -45,9 +45,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithm\Q217.cs" />
+    <Compile Include="Algorithm\Q290.cs" />
     <Compile Include="Algorithm\Q34.cs" />
     <Compile Include="Algorithm\Q376.cs" />
+    <Compile Include="Algorithm\Q389.cs" />
+    <Compile Include="Algorithm\Q4.cs" />
     <Compile Include="Algorithm\Q49.cs" />
+    <Compile Include="Algorithm\Q714.cs" />
     <Compile Include="Algorithm\Q738.cs" />
     <Compile Include="MultiThread\AutoResetEventDemo.cs" />
     <Compile Include="MultiThread\Q1114.cs" />

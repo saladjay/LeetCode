@@ -12,7 +12,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            Test.Execute("Q738",TestType.Algorithm);
+            Test.Execute("Q389",TestType.Algorithm);
         }
 
         public static class Test
