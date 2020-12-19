@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>LeetCode</RootNamespace>
     <AssemblyName>LeetCode</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -50,6 +50,7 @@
     <Compile Include="Algorithm\Q376.cs" />
     <Compile Include="Algorithm\Q389.cs" />
     <Compile Include="Algorithm\Q4.cs" />
+    <Compile Include="Algorithm\Q48.cs" />
     <Compile Include="Algorithm\Q49.cs" />
     <Compile Include="Algorithm\Q714.cs" />
     <Compile Include="Algorithm\Q738.cs" />
