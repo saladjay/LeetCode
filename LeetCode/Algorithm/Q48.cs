@@ -163,13 +163,13 @@ namespace LeetCode.Algorithm
             {
                 return;
             }
-            RotatoRing(matrix, first, last);
-            SubRotato(matrix, first + 1, last - 1);
+            RotateRing(matrix, first, last);
+            SubRotate(matrix, first + 1, last - 1);
         }
 
         public void RotateBest(int[][] matrix)
         {
-            SubRotato(matrix, 0, matrix.GetLength(0) - 1);
+            SubRotate(matrix, 0, matrix.GetLength(0) - 1);
         }
     }
 }
