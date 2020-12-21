@@ -60,6 +60,7 @@
     <Compile Include="Algorithm\Q49.cs" />
     <Compile Include="Algorithm\Q714.cs" />
     <Compile Include="Algorithm\Q738.cs" />
+    <Compile Include="Algorithm\Q746.cs" />
     <Compile Include="MultiThread\AutoResetEventDemo.cs" />
     <Compile Include="MultiThread\Q1114.cs" />
     <Compile Include="Program.cs" />

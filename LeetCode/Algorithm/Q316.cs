@@ -42,7 +42,7 @@ namespace LeetCode.Algorithm
 
         public string RemoveDuplicateLetters(string s)
         {
-
+            return "";
         }
     }
 }

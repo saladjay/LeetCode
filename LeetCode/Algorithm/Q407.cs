@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using iCare.Emr.IWcf;
 namespace LeetCode.Algorithm
 {
     public class Q407 : IExecuteTest
