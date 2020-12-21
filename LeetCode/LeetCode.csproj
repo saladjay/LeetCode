@@ -34,6 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="iCare.Emr.IWcf%281%29">
+      <HintPath>C:\Users\Administrator\Documents\Tencent Files\3556336245\FileRecv\iCare.Emr.IWcf(1).dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,6 +54,8 @@
     <Compile Include="Algorithm\Q376.cs" />
     <Compile Include="Algorithm\Q389.cs" />
     <Compile Include="Algorithm\Q4.cs" />
+    <Compile Include="Algorithm\Q407.cs" />
+    <Compile Include="Algorithm\Q42.cs" />
     <Compile Include="Algorithm\Q48.cs" />
     <Compile Include="Algorithm\Q49.cs" />
     <Compile Include="Algorithm\Q714.cs" />
