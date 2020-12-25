@@ -48,15 +48,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithm\Q103.cs" />
+    <Compile Include="Algorithm\Q135.cs" />
     <Compile Include="Algorithm\Q217.cs" />
     <Compile Include="Algorithm\Q290.cs" />
     <Compile Include="Algorithm\Q316.cs" />
     <Compile Include="Algorithm\Q34.cs" />
     <Compile Include="Algorithm\Q376.cs" />
+    <Compile Include="Algorithm\Q387.cs" />
     <Compile Include="Algorithm\Q389.cs" />
     <Compile Include="Algorithm\Q4.cs" />
+    <Compile Include="Algorithm\Q402.cs" />
     <Compile Include="Algorithm\Q407.cs" />
     <Compile Include="Algorithm\Q42.cs" />
+    <Compile Include="Algorithm\Q455.cs" />
     <Compile Include="Algorithm\Q48.cs" />
     <Compile Include="Algorithm\Q49.cs" />
     <Compile Include="Algorithm\Q714.cs" />
