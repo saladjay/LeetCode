@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="Algorithm\Q103.cs" />
     <Compile Include="Algorithm\Q135.cs" />
+    <Compile Include="Algorithm\Q188.cs" />
     <Compile Include="Algorithm\Q217.cs" />
     <Compile Include="Algorithm\Q290.cs" />
     <Compile Include="Algorithm\Q316.cs" />
