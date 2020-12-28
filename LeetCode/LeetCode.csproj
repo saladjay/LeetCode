@@ -50,6 +50,7 @@
     <Compile Include="Algorithm\Q103.cs" />
     <Compile Include="Algorithm\Q135.cs" />
     <Compile Include="Algorithm\Q188.cs" />
+    <Compile Include="Algorithm\Q205.cs" />
     <Compile Include="Algorithm\Q217.cs" />
     <Compile Include="Algorithm\Q290.cs" />
     <Compile Include="Algorithm\Q316.cs" />
@@ -67,6 +68,7 @@
     <Compile Include="Algorithm\Q714.cs" />
     <Compile Include="Algorithm\Q738.cs" />
     <Compile Include="Algorithm\Q746.cs" />
+    <Compile Include="Algorithm\Q85.cs" />
     <Compile Include="MultiThread\AutoResetEventDemo.cs" />
     <Compile Include="MultiThread\Q1114.cs" />
     <Compile Include="Program.cs" />
