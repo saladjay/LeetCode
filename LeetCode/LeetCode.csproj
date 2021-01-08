@@ -54,6 +54,7 @@
     <Compile Include="Algorithm\Q217.cs" />
     <Compile Include="Algorithm\Q290.cs" />
     <Compile Include="Algorithm\Q316.cs" />
+    <Compile Include="Algorithm\Q330.cs" />
     <Compile Include="Algorithm\Q34.cs" />
     <Compile Include="Algorithm\Q376.cs" />
     <Compile Include="Algorithm\Q387.cs" />
